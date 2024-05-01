@@ -1,0 +1,2 @@
+1. The bug is instead of adding two numeric inputs, it is adding it as if it were strings. For example, inputting 1 and 3 would result in 13 instead of 4. 
+2. I would wrap num1 and num2 inside the Number() function. This would make it a number and possible to add it as a numeric input.
